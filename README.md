@@ -47,7 +47,7 @@ src="https://cardivo.vercel.app/api?name=SNAKE-TECH-MD🚀&description=🥂❤�
 </p>
   <p align="center">
    <!-- Repo Views -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSILENTLOVER0432%2FSILENT-SOBX-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMuqeet27%2FSNAKE-TECH-V1-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
  <a href="https://github.com/Muqeet27?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Muqeet27?label=Followers&style=social"></a>
 <a href="https://github.com/Muqeet27/SNAKE-TECH-V1-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Muqeet27/SNAKE-TECH-V1-MD?&style=social"></a>
 <a
@@ -308,7 +308,7 @@ jobs:
 -------------------
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=SILENT-SOBX-MD;+THE+WORLD+BEST+WHATSAPP+BOT;+CREATED+BY+SILENTLOVER+432🖤;KEEP+USING+SILENT-SOBX-MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=SILENT-SOBX-MD;+THE+WORLD+BEST+WHATSAPP+BOT;+CREATED+BY+SNAKELOVER+432🖤;KEEP+USING+SNAKE-TECH-MD" alt="Typing SVG" /></a>
   </p>
  
 
